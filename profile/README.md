@@ -1,4 +1,18 @@
-## Hi there 👋
+## Hakaton-NLMK Master-Flomaster Team 👋
+
+### Идея проекта
+#### Решаемая проблема
+#### Целевая аудитория
+### Гайд по использованию
+### Гайд по запуску 
+### Roadmap проекта
+### Текущие временые и финансовые затраты 
+#### Финансы:
+Команда - работа на перспективу(бесплатно).
+Инфраструктура - 1500 рублей из 5000.
+### Команда
+
+
 
 <!--
 
@@ -10,3 +24,4 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
