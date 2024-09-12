@@ -5,8 +5,8 @@
 #### Целевая аудитория
 ### Гайд по использованию
 ### Гайд по запуску 
-1) запустить backend cогласно гайду
-2) запустить frontend cогласно гайду
+1) запустить backend cогласно гайду из репозитория backend
+2) запустить frontend cогласно гайду из репозитория fronted
 3) бд clickhouse работает в облаке
 ### Roadmap проекта
 ![image](https://github.com/user-attachments/assets/6f46804b-bcd6-4e0a-b98c-6c86c96efbca)
