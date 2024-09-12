@@ -1,8 +1,9 @@
 ## Hakaton-NLMK Master-Flomaster Team 👋
 
 ### Идея проекта
-#### Решаемая проблема
-#### Целевая аудитория
+![image](https://github.com/user-attachments/assets/7b6bd121-175a-4cc3-a0f5-403983246c75)
+![image](https://github.com/user-attachments/assets/28fddead-d783-4ce0-98e2-f8f086535424)
+
 ### Гайд по использованию
 Ввод запроса
 ![image](https://github.com/user-attachments/assets/9f2d2b34-0e9a-460e-8d4a-6f8b98d3e822)
@@ -10,7 +11,7 @@
 ![image](https://github.com/user-attachments/assets/0d1e6bb7-6e62-4607-8d1a-d9fd3bb4997c)
 Подучение результата 
 ![image](https://github.com/user-attachments/assets/dabd174b-fd6e-420d-8fb6-6a64c69a0de8)
-
+Ссылка потрогать: https://hakaton-nlmk.github.io/frontend/ 
 ### Гайд по запуску 
 1) запустить backend cогласно гайду из репозитория backend
 2) запустить frontend cогласно гайду из репозитория fronted
