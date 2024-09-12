@@ -4,6 +4,13 @@
 #### Решаемая проблема
 #### Целевая аудитория
 ### Гайд по использованию
+Ввод запроса
+![image](https://github.com/user-attachments/assets/9f2d2b34-0e9a-460e-8d4a-6f8b98d3e822)
+Ожидание ответа
+![image](https://github.com/user-attachments/assets/0d1e6bb7-6e62-4607-8d1a-d9fd3bb4997c)
+Подучение результата 
+![image](https://github.com/user-attachments/assets/dabd174b-fd6e-420d-8fb6-6a64c69a0de8)
+
 ### Гайд по запуску 
 1) запустить backend cогласно гайду из репозитория backend
 2) запустить frontend cогласно гайду из репозитория fronted
